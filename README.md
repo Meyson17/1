@@ -1,3 +1,4 @@
+<code>
 @startuml
 left to right direction
 actor "Пользователь" as fc
@@ -14,3 +15,4 @@ fc --> UC3
 fc --> UC4
 fc --> UC5
 @enduml
+<code>
